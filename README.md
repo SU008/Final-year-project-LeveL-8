@@ -1,7 +1,12 @@
 # Final-year-project-LeveL-8
+
+Refer to the "C17344483_Sajjad_Ullah_ProjectReport.pdf" report 
+
 Creating an Analogue guitar pedal 
 
 This project is about building an analogue guitar pedal, this is a device controlled by the guitarist's feet to change the sound of the guitar. In simple terms, a guitar pedal takes in the guitar signal as an input, applies a specified effect to the signal and this becomes the output. 
+
+The chosen guitar effect was the Wah-Wah pedal. 
 
 Objectives of the project:
 •	Investigate common guitar effects pedals.
